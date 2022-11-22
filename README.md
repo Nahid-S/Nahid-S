@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nahid-s&label=Profile%20views&color=0e75b6&style=flat" alt="nahid-s" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nahid-s" alt="nahid-s" /></a> </p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <p align="left"> <a href="https://twitter.com/nahid_srf" target="blank"><img src="https://img.shields.io/twitter/follow/nahid_srf?logo=twitter&style=for-the-badge" alt="nahid_srf" /></a> </p>
 
