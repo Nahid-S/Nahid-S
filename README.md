@@ -11,7 +11,7 @@ Android Flutter PhP
 </div>
 
 ## 🌐 Socials:
-
+<img src="https://github.com/Nahid-S/Nahid-S/blob/main/Animation.gif" alt="banner" width="32">
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/nahid_sharif)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/4RCnTubbxJ)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/NahidSrf)
