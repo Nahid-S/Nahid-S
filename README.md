@@ -1,5 +1,6 @@
 # <img src="https://github.com/Nahid-S/Nahid-S/blob/main/destro.gif" alt="banner" width="96"> <p style="text-align: center;">About Me</p>
-Android Flutter PhP <img align="left" width="100" height="100" src="http://www.fillmurray.com/100/100">
+<center><img src="https://github.com/Nahid-S/Nahid-S/blob/main/destro.gif"></center>
+      <center>This is an image</center>
 
 # <img src="https://github.com/Nahid-S/Nahid-S/blob/main/anlytics.gif" alt="banner" width="64"> SKY View
 
