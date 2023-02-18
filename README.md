@@ -2,11 +2,10 @@
 Flutter
 # <img src="https://github.com/Nahid-S/Nahid-S/blob/main/Animation.gif" alt="banner" width="32"> Banner
 
-### 🚩 A simple and clean banner generator by [Liyas Thomas](https://github.com/liyasthomas)
+### 🚩 Outline [Nahid Sharif](https://github.com/nahid-s)
 
 <div align="center">
   <br>
-  <img src="https://github.com/Nahid-S/Nahid-S/blob/main/Animation.gif" alt="banner" width="100%">
   <img src="https://github.com/Nahid-S/Nahid-S/blob/main/Animation.gif" alt="banner" width="100%">
   <br>
 </div>
