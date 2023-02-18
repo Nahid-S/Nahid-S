@@ -1,13 +1,13 @@
 # 💫 About Me:
 Flutter
-# <img src="(https://github.com/Nahid-S/Nahid-S/blob/main/Animation.gif)" alt="banner" width="32"> Banner
+# <img src="https://github.com/Nahid-S/Nahid-S/blob/main/Animation.gif" alt="banner" width="32"> Banner
 
 ### 🚩 A simple and clean banner generator by [Liyas Thomas](https://github.com/liyasthomas)
 
 <div align="center">
   <br>
-  <img src="icons/screely.png" alt="banner" width="100%">
-  <img src="icons/screely2.png" alt="banner" width="100%">
+  <img src="https://github.com/Nahid-S/Nahid-S/blob/main/Animation.gif" alt="banner" width="100%">
+  <img src="https://github.com/Nahid-S/Nahid-S/blob/main/Animation.gif" alt="banner" width="100%">
   <br>
 </div>
 
