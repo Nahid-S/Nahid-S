@@ -4,7 +4,8 @@
 <p align="center">
   <img width="50" height="50" src="https://github.com/Nahid-S/Nahid-S/blob/main/destro.gif">
 </p>
-# <img src="https://github.com/Nahid-S/Nahid-S/blob/main/anlytics.gif" alt="banner" width="64"> SKY View
+
+<img src="https://github.com/Nahid-S/Nahid-S/blob/main/anlytics.gif" alt="banner" width="64"> SKY View
 
 ### 🚩 Outline [Nahid Sharif](https://github.com/nahid-s)
 
