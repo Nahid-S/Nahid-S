@@ -11,6 +11,7 @@
 <div align="center">
   <br>
   <img src="https://github.com/Nahid-S/Nahid-S/blob/main/Animation.gif" alt="banner" width="100%">
+      <h3 style="text-align: center;">H3 that is center aligned</h3>
   <br>
 </div>
 
