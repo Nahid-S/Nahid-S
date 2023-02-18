@@ -1,6 +1,6 @@
 # 💫 About Me:
 Flutter
-# <img src="https://github.com/Nahid-S/Nahid-S/blob/main/Animation.gif" alt="banner" width="32"> Banner
+# <img src="https://github.com/Nahid-S/Nahid-S/blob/main/Animation.gif" alt="banner" width="32"> Stats
 
 ### 🚩 Outline [Nahid Sharif](https://github.com/nahid-s)
 
