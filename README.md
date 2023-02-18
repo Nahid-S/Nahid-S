@@ -1,6 +1,6 @@
-# <img src="https://github.com/Nahid-S/Nahid-S/blob/main/destro.gif" alt="banner" width="32"> About Me
+# <img src="https://github.com/Nahid-S/Nahid-S/blob/main/destro.gif" alt="banner" width="40"> About Me
 Android Flutter PhP
-# <img src="https://github.com/Nahid-S/Nahid-S/blob/main/anlytics.gif" alt="banner" width="36"> SKY View
+# <img src="https://github.com/Nahid-S/Nahid-S/blob/main/anlytics.gif" alt="banner" width="40"> SKY View
 
 ### 🚩 Outline [Nahid Sharif](https://github.com/nahid-s)
 
