@@ -1,6 +1,6 @@
 # 💫 About Me:
 Flutter
-# <img src="icons/icon-48x48.png" alt="banner" width="32"> Banner
+# <img src="[icons/icon-48x48.png](https://github.com/Nahid-S/Nahid-S/blob/main/Animation.gif)" alt="banner" width="32"> Banner
 
 ### 🚩 A simple and clean banner generator by [Liyas Thomas](https://github.com/liyasthomas)
 
