@@ -1,6 +1,6 @@
-# <img src="https://github.com/Nahid-S/Nahid-S/blob/main/destro.gif" alt="banner" width="30"> About Me
+# <img src="https://github.com/Nahid-S/Nahid-S/blob/main/destro.gif" alt="banner" width="64"> About Me
 Android Flutter PhP
-# <img src="https://github.com/Nahid-S/Nahid-S/blob/main/anlytics.gif" alt="banner" width="30"> SKY View
+# <img src="https://github.com/Nahid-S/Nahid-S/blob/main/anlytics.gif" alt="banner" width="64"> SKY View
 
 ### 🚩 Outline [Nahid Sharif](https://github.com/nahid-s)
 
@@ -10,7 +10,7 @@ Android Flutter PhP
   <br>
 </div>
 
-## <img src="https://github.com/Nahid-S/Nahid-S/blob/main/usergif.gif" alt="banner" width="30"> Socials
+## <img src="https://github.com/Nahid-S/Nahid-S/blob/main/usergif.gif" alt="banner" width="64"> Socials
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/nahid_sharif)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/4RCnTubbxJ)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/NahidSrf)
