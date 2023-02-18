@@ -1,6 +1,6 @@
 # <img src="https://github.com/Nahid-S/Nahid-S/blob/main/destro.gif" alt="banner" width="96"> <p style="text-align: center;">About Me</p>
 <center><img src="https://github.com/Nahid-S/Nahid-S/blob/main/destro.gif"></center>
-      <center>This is an image</center>
+      <h3 style="text-align: center;">H3 that is center aligned</h3>
 <p align="center">
   <img width="50" height="50" src="https://github.com/Nahid-S/Nahid-S/blob/main/destro.gif">
 </p>
