@@ -1,6 +1,6 @@
 # <img src="https://github.com/Nahid-S/Nahid-S/blob/main/destro.gif" alt="banner" width="96"> <p style="text-align: center;">About Me</p>
-
-![C](https://github.com/Nahid-S/Nahid-S/blob/main/destro.gif) Flutter
+###Android | Unity | Powerpoint
+[Released Projects](https://link-url-here.org) Prometheus
 
 # <img src="https://github.com/Nahid-S/Nahid-S/blob/main/anlytics.gif" alt="banner" width="99"> <p style="text-align: center;">Sky View</p>
 ### 🚩 Outline [Nahid Sharif](https://github.com/nahid-s)
