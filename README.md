@@ -6,16 +6,14 @@
 </p>
 
 <img  align="left"  width="50"  height="50"  src="https://github.com/Nahid-S/Nahid-S/blob/main/anlytics.gif">
-<pre> 
-About Me
-</pre>
 
+# <img src="https://github.com/Nahid-S/Nahid-S/blob/main/anlytics.gif" alt="banner" width="96"> <p style="text-align: center;">Sky View</p>
 ### 🚩 Outline [Nahid Sharif](https://github.com/nahid-s)
 
 <div align="center">
   <br>
   <img src="https://github.com/Nahid-S/Nahid-S/blob/main/Animation.gif" alt="banner" width="100%">
-      <h3 style="text-align: center;">H3 that is center aligned</h3>
+      <h3 style="text-align: center;">Git Commits 2022</h3>
   <br>
 </div>
 
