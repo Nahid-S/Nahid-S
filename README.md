@@ -1,6 +1,6 @@
 # <img src="https://github.com/Nahid-S/Nahid-S/blob/main/destro.gif" alt="banner" width="96"> <p style="text-align: center;">About Me</p>
 
- <img src="https://github.com/Nahid-S/Nahid-S/blob/main/mux.gif" alt="banner" width="32"> <center>Flutter</center>
+ <img src="https://github.com/Nahid-S/Nahid-S/blob/main/mux.gif" alt="banner" width="32"> Flutter
 
 # <img src="https://github.com/Nahid-S/Nahid-S/blob/main/anlytics.gif" alt="banner" width="96"> <p style="text-align: center;">Sky View</p>
 ### 🚩 Outline [Nahid Sharif](https://github.com/nahid-s)
