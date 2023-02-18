@@ -1,4 +1,4 @@
-# <img src="https://github.com/Nahid-S/Nahid-S/blob/main/destro.gif" alt="banner" width="64"> About Me
+# <img src="https://github.com/Nahid-S/Nahid-S/blob/main/destro.gif" alt="banner" width="64"> <p style="text-align: center;">About Me</p>
 Android Flutter PhP
 # <img src="https://github.com/Nahid-S/Nahid-S/blob/main/anlytics.gif" alt="banner" width="64"> SKY View
 
