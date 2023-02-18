@@ -1,5 +1,5 @@
 # <img src="https://github.com/Nahid-S/Nahid-S/blob/main/destro.gif" alt="banner" width="96"> <p style="text-align: center;">About Me</p>
-Android Flutter PhP
+Android Flutter PhP <img src="https://github.com/Nahid-S/Nahid-S/blob/main/destro.gif" alt="banner" width="32">
 # <img src="https://github.com/Nahid-S/Nahid-S/blob/main/anlytics.gif" alt="banner" width="64"> SKY View
 
 ### 🚩 Outline [Nahid Sharif](https://github.com/nahid-s)
