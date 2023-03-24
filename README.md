@@ -1,6 +1,6 @@
 # <img src="https://github.com/Nahid-S/Nahid-S/blob/main/destro.gif" alt="banner" width="96"> <p style="text-align: center;">Project Summary</p>
 
-Android | Unity | Powerpoint | Android | Unity | Powerpoint | [Released Projects](https://sites.google.com/view/prometheus/home)
+Android | Unity | UI/UX | QA | Motion Graphics | [Released Projects](https://sites.google.com/view/prometheus/home)
 <br />
 
 
